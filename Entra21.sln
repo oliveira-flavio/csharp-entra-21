@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista2Exercicio2Modulo", "L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista2Exercicio3NumerosDescrescente", "Lista2Exercicio3NumerosDescrescente\Lista2Exercicio3NumerosDescrescente.csproj", "{C2AF8192-34DF-47B2-A29A-BF8804ED2ADB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista2Exercicio4DiferenteMaiorMenor", "Lista2Exercicio4DiferenteMaiorMenor\Lista2Exercicio4DiferenteMaiorMenor.csproj", "{A70C5781-F4AD-4335-B20F-025FEB97932B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{C2AF8192-34DF-47B2-A29A-BF8804ED2ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2AF8192-34DF-47B2-A29A-BF8804ED2ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2AF8192-34DF-47B2-A29A-BF8804ED2ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A70C5781-F4AD-4335-B20F-025FEB97932B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A70C5781-F4AD-4335-B20F-025FEB97932B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A70C5781-F4AD-4335-B20F-025FEB97932B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A70C5781-F4AD-4335-B20F-025FEB97932B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
