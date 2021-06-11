@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista2Exercicio5MediaAluno"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista2Exercicio6Ternario", "Lista2Exercicio6Ternario\Lista2Exercicio6Ternario.csproj", "{2813133E-32AD-4746-9C81-D81D245C9C9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista2Exercicio7IntervaloNumeros", "Lista2Exercicio7IntervaloNumeros\Lista2Exercicio7IntervaloNumeros.csproj", "{6DAE337B-67EC-4A51-B866-CCB05835CCB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{2813133E-32AD-4746-9C81-D81D245C9C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2813133E-32AD-4746-9C81-D81D245C9C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2813133E-32AD-4746-9C81-D81D245C9C9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DAE337B-67EC-4A51-B866-CCB05835CCB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DAE337B-67EC-4A51-B866-CCB05835CCB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DAE337B-67EC-4A51-B866-CCB05835CCB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DAE337B-67EC-4A51-B866-CCB05835CCB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
