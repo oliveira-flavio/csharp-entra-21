@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista2Exercicio6Ternario", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista2Exercicio7IntervaloNumeros", "Lista2Exercicio7IntervaloNumeros\Lista2Exercicio7IntervaloNumeros.csproj", "{6DAE337B-67EC-4A51-B866-CCB05835CCB0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista2Exercicio8Switch", "Lista2Exercicio8Switch\Lista2Exercicio8Switch.csproj", "{FFCCF247-4556-42B8-B331-C8B20E657E21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{6DAE337B-67EC-4A51-B866-CCB05835CCB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DAE337B-67EC-4A51-B866-CCB05835CCB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DAE337B-67EC-4A51-B866-CCB05835CCB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFCCF247-4556-42B8-B331-C8B20E657E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFCCF247-4556-42B8-B331-C8B20E657E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFCCF247-4556-42B8-B331-C8B20E657E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFCCF247-4556-42B8-B331-C8B20E657E21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
