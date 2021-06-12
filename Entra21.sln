@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista2Exercicio7IntervaloNu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista2Exercicio8Switch", "Lista2Exercicio8Switch\Lista2Exercicio8Switch.csproj", "{FFCCF247-4556-42B8-B331-C8B20E657E21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista2Exercicio9Triangulo", "Lista2Exercicio9Triangulo\Lista2Exercicio9Triangulo.csproj", "{6EB111B7-5DB9-4D43-B3C6-024C4999BED6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{FFCCF247-4556-42B8-B331-C8B20E657E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFCCF247-4556-42B8-B331-C8B20E657E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFCCF247-4556-42B8-B331-C8B20E657E21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EB111B7-5DB9-4D43-B3C6-024C4999BED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB111B7-5DB9-4D43-B3C6-024C4999BED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB111B7-5DB9-4D43-B3C6-024C4999BED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB111B7-5DB9-4D43-B3C6-024C4999BED6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
