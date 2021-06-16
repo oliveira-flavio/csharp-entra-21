@@ -65,6 +65,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista3Exercicio31SomaParImp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista3Exercicio32", "Lista3Exercicio32\Lista3Exercicio32.csproj", "{930877CE-3D18-4088-8531-296ECAFC2B20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista3Exercicio33VetorNotas", "Lista3Exercicio33VetorNotas\Lista3Exercicio33VetorNotas.csproj", "{C48D922F-9F32-4AD6-892F-70EA298ABD23}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{930877CE-3D18-4088-8531-296ECAFC2B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{930877CE-3D18-4088-8531-296ECAFC2B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{930877CE-3D18-4088-8531-296ECAFC2B20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C48D922F-9F32-4AD6-892F-70EA298ABD23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C48D922F-9F32-4AD6-892F-70EA298ABD23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C48D922F-9F32-4AD6-892F-70EA298ABD23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C48D922F-9F32-4AD6-892F-70EA298ABD23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
