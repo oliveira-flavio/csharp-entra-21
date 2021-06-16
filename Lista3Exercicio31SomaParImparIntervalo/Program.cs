@@ -25,7 +25,7 @@ namespace Lista3Exercicio31SomaParImparIntervalo
                 }
 
             } while (numero > -1);
-
+            Console.WriteLine(" ");
             Console.WriteLine($"A soma de par é {numeroPar}");
             Console.WriteLine(" ");
             Console.WriteLine($"A soma de impar é {numeroImpar}");
