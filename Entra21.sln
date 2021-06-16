@@ -51,17 +51,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista2Nivel3Exercicio2", "L
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista2Nivel3Exercicio3IMC", "Lista2Nivel3Exercicio3IMC\Lista2Nivel3Exercicio3IMC.csproj", "{6B5739F7-0067-43DD-A58B-EC3828C54BA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista3Exercicio26EstruturasDeRepeticao", "Lista3Exercicio26EstruturasDeRepeticao\Lista3Exercicio26EstruturasDeRepeticao.csproj", "{6E00D5B4-F7C3-4D27-97A9-F683E8F72EE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista3Exercicio26EstruturasDeRepeticao", "Lista3Exercicio26EstruturasDeRepeticao\Lista3Exercicio26EstruturasDeRepeticao.csproj", "{6E00D5B4-F7C3-4D27-97A9-F683E8F72EE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista3Exercicio27EstruturasDeRepeticao", "Lista3Exercicio27EstruturasDeRepeticao\Lista3Exercicio27EstruturasDeRepeticao.csproj", "{DB0F5F5B-D4F7-428C-BD1D-8F575D1A1A9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista3Exercicio27EstruturasDeRepeticao", "Lista3Exercicio27EstruturasDeRepeticao\Lista3Exercicio27EstruturasDeRepeticao.csproj", "{DB0F5F5B-D4F7-428C-BD1D-8F575D1A1A9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista3Exercicio28ImparesEmIntervalo", "Lista3Exercicio28ImparesEmIntervalo\Lista3Exercicio28ImparesEmIntervalo.csproj", "{D55789E6-E33D-4556-98CC-74FC04FF297F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista3Exercicio28ImparesEmIntervalo", "Lista3Exercicio28ImparesEmIntervalo\Lista3Exercicio28ImparesEmIntervalo.csproj", "{D55789E6-E33D-4556-98CC-74FC04FF297F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista3Exercicio29", "Lista3Exercicio29\Lista3Exercicio29.csproj", "{BE197AC4-62BF-4403-A14B-8D478580F34F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista3Exercicio29", "Lista3Exercicio29\Lista3Exercicio29.csproj", "{BE197AC4-62BF-4403-A14B-8D478580F34F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista3Exercicio30Tabuada", "Lista3Exercicio30Tabuada\Lista3Exercicio30Tabuada.csproj", "{87861239-2EC1-4205-A7C9-3FA9A78959E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista3Exercicio30Tabuada", "Lista3Exercicio30Tabuada\Lista3Exercicio30Tabuada.csproj", "{87861239-2EC1-4205-A7C9-3FA9A78959E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista3Exercicio31SomaParImparIntervalo", "Lista3Exercicio31SomaParImparIntervalo\Lista3Exercicio31SomaParImparIntervalo.csproj", "{244DC73A-2866-4FBA-A8AC-2F73099D5B05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista3Exercicio31SomaParImparIntervalo", "Lista3Exercicio31SomaParImparIntervalo\Lista3Exercicio31SomaParImparIntervalo.csproj", "{244DC73A-2866-4FBA-A8AC-2F73099D5B05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista3Exercicio32", "Lista3Exercicio32\Lista3Exercicio32.csproj", "{930877CE-3D18-4088-8531-296ECAFC2B20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -189,6 +191,10 @@ Global
 		{244DC73A-2866-4FBA-A8AC-2F73099D5B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{244DC73A-2866-4FBA-A8AC-2F73099D5B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{244DC73A-2866-4FBA-A8AC-2F73099D5B05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{930877CE-3D18-4088-8531-296ECAFC2B20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930877CE-3D18-4088-8531-296ECAFC2B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930877CE-3D18-4088-8531-296ECAFC2B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930877CE-3D18-4088-8531-296ECAFC2B20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
