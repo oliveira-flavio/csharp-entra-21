@@ -43,13 +43,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista2Exercicio10", "Lista2
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista2Exercicio11While", "Lista2Exercicio11While\Lista2Exercicio11While.csproj", "{D3E0F8DE-DF03-42B0-BEB6-947CB173EEE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista2Exercicio12", "Lista2Exercicio12\Lista2Exercicio12.csproj", "{6696C017-DCCA-44BD-8351-672A34CCF8F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista2Exercicio12", "Lista2Exercicio12\Lista2Exercicio12.csproj", "{6696C017-DCCA-44BD-8351-672A34CCF8F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista2Nivel3Exercicio1", "Lista2Nivel3Exercicio1\Lista2Nivel3Exercicio1.csproj", "{987E0A39-C0FE-4791-AB57-058E8EE2FEDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista2Nivel3Exercicio1", "Lista2Nivel3Exercicio1\Lista2Nivel3Exercicio1.csproj", "{987E0A39-C0FE-4791-AB57-058E8EE2FEDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista2Nivel3Exercicio2", "Lista2Nivel3Exercicio2\Lista2Nivel3Exercicio2.csproj", "{D054BF4F-3A3C-42EB-B65F-E0E9CC019AD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista2Nivel3Exercicio2", "Lista2Nivel3Exercicio2\Lista2Nivel3Exercicio2.csproj", "{D054BF4F-3A3C-42EB-B65F-E0E9CC019AD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista2Nivel3Exercicio3IMC", "Lista2Nivel3Exercicio3IMC\Lista2Nivel3Exercicio3IMC.csproj", "{6B5739F7-0067-43DD-A58B-EC3828C54BA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista2Nivel3Exercicio3IMC", "Lista2Nivel3Exercicio3IMC\Lista2Nivel3Exercicio3IMC.csproj", "{6B5739F7-0067-43DD-A58B-EC3828C54BA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista3Exercicio26EstruturasDeRepeticao", "Lista3Exercicio26EstruturasDeRepeticao\Lista3Exercicio26EstruturasDeRepeticao.csproj", "{6E00D5B4-F7C3-4D27-97A9-F683E8F72EE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{6B5739F7-0067-43DD-A58B-EC3828C54BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B5739F7-0067-43DD-A58B-EC3828C54BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B5739F7-0067-43DD-A58B-EC3828C54BA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E00D5B4-F7C3-4D27-97A9-F683E8F72EE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E00D5B4-F7C3-4D27-97A9-F683E8F72EE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E00D5B4-F7C3-4D27-97A9-F683E8F72EE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E00D5B4-F7C3-4D27-97A9-F683E8F72EE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
