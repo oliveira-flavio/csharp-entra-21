@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista3Exercicio34VetorMaior
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista3Exercicio35MultiplosDe10", "Lista3Exercicio35MultiplosDe10\Lista3Exercicio35MultiplosDe10.csproj", "{EEAEF629-DE54-4CE5-A6D6-EAF3B0CBBC05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista3Exercicio36MediaMinMax10Valores", "Lista3Exercicio36MediaMinMax10Valores\Lista3Exercicio36MediaMinMax10Valores.csproj", "{1AB172D5-D010-437D-B654-6ABF09AAF8E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{EEAEF629-DE54-4CE5-A6D6-EAF3B0CBBC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEAEF629-DE54-4CE5-A6D6-EAF3B0CBBC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEAEF629-DE54-4CE5-A6D6-EAF3B0CBBC05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AB172D5-D010-437D-B654-6ABF09AAF8E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB172D5-D010-437D-B654-6ABF09AAF8E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AB172D5-D010-437D-B654-6ABF09AAF8E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AB172D5-D010-437D-B654-6ABF09AAF8E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
