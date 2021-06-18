@@ -75,6 +75,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista3Exercicio36MediaMinMa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista3Exercicio45Vetores", "Lista3Exercicio45Vetores\Lista3Exercicio45Vetores.csproj", "{8CCFB24A-600D-45AC-A092-1E16A258FA79}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista3Exercicio46Vetores", "Lista3Exercicio46Vetores\Lista3Exercicio46Vetores.csproj", "{2C88E301-46F8-489D-9096-7708FA00F465}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +227,10 @@ Global
 		{8CCFB24A-600D-45AC-A092-1E16A258FA79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CCFB24A-600D-45AC-A092-1E16A258FA79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CCFB24A-600D-45AC-A092-1E16A258FA79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C88E301-46F8-489D-9096-7708FA00F465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C88E301-46F8-489D-9096-7708FA00F465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C88E301-46F8-489D-9096-7708FA00F465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C88E301-46F8-489D-9096-7708FA00F465}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
