@@ -63,15 +63,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista3Exercicio30Tabuada", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista3Exercicio31SomaParImparIntervalo", "Lista3Exercicio31SomaParImparIntervalo\Lista3Exercicio31SomaParImparIntervalo.csproj", "{244DC73A-2866-4FBA-A8AC-2F73099D5B05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista3Exercicio32", "Lista3Exercicio32\Lista3Exercicio32.csproj", "{930877CE-3D18-4088-8531-296ECAFC2B20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista3Exercicio32", "Lista3Exercicio32\Lista3Exercicio32.csproj", "{930877CE-3D18-4088-8531-296ECAFC2B20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista3Exercicio33VetorNotas", "Lista3Exercicio33VetorNotas\Lista3Exercicio33VetorNotas.csproj", "{C48D922F-9F32-4AD6-892F-70EA298ABD23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista3Exercicio33VetorNotas", "Lista3Exercicio33VetorNotas\Lista3Exercicio33VetorNotas.csproj", "{C48D922F-9F32-4AD6-892F-70EA298ABD23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista3Exercicio34VetorMaiorMenor", "Lista3Exercicio34VetorMaiorMenor\Lista3Exercicio34VetorMaiorMenor.csproj", "{54BFD2F8-E97F-4E0D-916F-B8194D698DE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista3Exercicio34VetorMaiorMenor", "Lista3Exercicio34VetorMaiorMenor\Lista3Exercicio34VetorMaiorMenor.csproj", "{54BFD2F8-E97F-4E0D-916F-B8194D698DE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista3Exercicio35MultiplosDe10", "Lista3Exercicio35MultiplosDe10\Lista3Exercicio35MultiplosDe10.csproj", "{EEAEF629-DE54-4CE5-A6D6-EAF3B0CBBC05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista3Exercicio35MultiplosDe10", "Lista3Exercicio35MultiplosDe10\Lista3Exercicio35MultiplosDe10.csproj", "{EEAEF629-DE54-4CE5-A6D6-EAF3B0CBBC05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista3Exercicio36MediaMinMax10Valores", "Lista3Exercicio36MediaMinMax10Valores\Lista3Exercicio36MediaMinMax10Valores.csproj", "{1AB172D5-D010-437D-B654-6ABF09AAF8E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista3Exercicio36MediaMinMax10Valores", "Lista3Exercicio36MediaMinMax10Valores\Lista3Exercicio36MediaMinMax10Valores.csproj", "{1AB172D5-D010-437D-B654-6ABF09AAF8E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista3Exercicio45Vetores", "Lista3Exercicio45Vetores\Lista3Exercicio45Vetores.csproj", "{8CCFB24A-600D-45AC-A092-1E16A258FA79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -219,6 +221,10 @@ Global
 		{1AB172D5-D010-437D-B654-6ABF09AAF8E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AB172D5-D010-437D-B654-6ABF09AAF8E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AB172D5-D010-437D-B654-6ABF09AAF8E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CCFB24A-600D-45AC-A092-1E16A258FA79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CCFB24A-600D-45AC-A092-1E16A258FA79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CCFB24A-600D-45AC-A092-1E16A258FA79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CCFB24A-600D-45AC-A092-1E16A258FA79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
