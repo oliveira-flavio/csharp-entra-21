@@ -83,6 +83,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista3Exercicio48Vetores", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista3Exercicio49Vetores", "Lista3Exercicio49Vetores\Lista3Exercicio49Vetores.csproj", "{9C3AF060-90E7-4281-9A19-397931914D13}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista3Exercicio50Sorteio", "Lista3Exercicio50Sorteio\Lista3Exercicio50Sorteio.csproj", "{A42AE598-47AB-4292-B675-97CC6B7841C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -249,6 +251,10 @@ Global
 		{9C3AF060-90E7-4281-9A19-397931914D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C3AF060-90E7-4281-9A19-397931914D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C3AF060-90E7-4281-9A19-397931914D13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A42AE598-47AB-4292-B675-97CC6B7841C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A42AE598-47AB-4292-B675-97CC6B7841C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A42AE598-47AB-4292-B675-97CC6B7841C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A42AE598-47AB-4292-B675-97CC6B7841C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
