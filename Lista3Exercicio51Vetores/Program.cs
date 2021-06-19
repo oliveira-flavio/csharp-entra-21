@@ -41,7 +41,7 @@ namespace Lista3Exercicio51Vetores
             {
                 Console.WriteLine($"Alunos com média acima de 7.0 = {contAcimaMedia}");
             }
-            else if (mediaMenor.Length != 0)
+            else if (mediaMenor.Length > 0)
             {
                 Console.WriteLine(mediaMenor);
             }
